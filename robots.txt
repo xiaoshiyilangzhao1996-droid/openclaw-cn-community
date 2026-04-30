@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xiaoshiyilangzhao1996-droid.github.io/openclaw-cn-community/sitemap.xml
