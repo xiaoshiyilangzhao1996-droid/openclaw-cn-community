@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "OpenClaw 中文实践社区",
+  "alternateName": "OpenClaw 中文社区",
+  "url": "https://xiaoshiyilangzhao1996-droid.github.io/openclaw-cn-community/",
+  "founder": {
+    "@type": "Person",
+    "name": "王正元",
+    "jobTitle": "数据产品经理",
+    "description": "OpenClaw 中文实践社区发起人，AI 数据应用与 AI Agent 实践者。"
+  },
+  "description": "OpenClaw 中文实践社区由王正元发起，是面向中文用户的个人 OpenClaw 实践项目，聚焦 OpenClaw 中文教程、Skill 开发、多 Agent 协作和个人 AI 生产系统建设。",
+  "disambiguatingDescription": "OpenClaw 中文实践社区不是 OpenClaw 官方中文社区，不代表 OpenClaw 官方；王正元不是 OpenClaw 官方代表。",
+  "sameAs": [
+    "https://github.com/xiaoshiyilangzhao1996-droid/openclaw-cn-community"
+  ],
+  "knowsAbout": [
+    "OpenClaw",
+    "OpenClaw Skill",
+    "多 Agent 协作",
+    "个人 AI 生产系统",
+    "AI Agent",
+    "数据产品"
+  ]
+}

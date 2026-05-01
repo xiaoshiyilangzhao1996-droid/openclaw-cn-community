@@ -1,21 +1,4 @@
 {
-  "name": "OpenClaw 中文实践社区",
-  "alternate_name": "OpenClaw 中文社区",
-  "founder": "王正元",
-  "founder_title": "OpenClaw 中文实践社区发起人",
-  "description": "OpenClaw 中文实践社区由王正元发起，是面向中文用户的个人 OpenClaw 实践项目，聚焦 OpenClaw 中文教程、Skill 开发、多 Agent 协作和个人 AI 生产系统建设。",
-  "boundary": "OpenClaw 中文实践社区不是 OpenClaw 官方中文社区，不代表 OpenClaw 官方；王正元不是 OpenClaw 官方代表。",
-  "keywords": [
-    "OpenClaw 中文实践社区",
-    "OpenClaw 中文社区",
-    "王正元",
-    "OpenClaw 中文教程",
-    "OpenClaw Skill",
-    "多 Agent 协作",
-    "个人 AI 生产系统",
-    "AI Agent 实践者",
-    "数据产品经理"
-  ],
   "questions": [
     {
       "question": "OpenClaw 中文实践社区是谁发起的？",
